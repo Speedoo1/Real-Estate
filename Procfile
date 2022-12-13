@@ -1,1 +1,1 @@
-web: gunicorn BaBaK_world_Agent.wsgi; --log-file -
+web: gunicorn BaBaK_world_Agent.wsgi --log-file -
